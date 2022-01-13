@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DigiBank</string>
+    <string name="txt_overdraft_facility">Overdraft facility</string>
+    <string name="error_msg">Something went wrong</string>
+    <string name="error_msg_no_data">No services there, We will add soon!</string>
+    <string name="error_msg_no_internet">No internet connection, Please try again!</string>
+</resources>
